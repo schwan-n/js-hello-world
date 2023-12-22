@@ -4,9 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('Hello, World!')
+console.log ('i saw a cat')
+console.log('i also saw a dog')
+console.log('9')
+console.log(' i went shopping' , 'i bought cake')
+console.log('"Thats my purse! I dont know you!"')
+console.log('I SAID "THATS MY PURSE!"')
 
-/*  
+
+   /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
